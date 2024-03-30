@@ -1,2 +1,2 @@
-# WolfChat
-building chat app with pheonix web framework for elixir
+# WoofChat
+building chat app with with springboot in java
